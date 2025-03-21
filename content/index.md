@@ -6,6 +6,8 @@ Move to [about](/about) page.
 
 hiii
 
+Peepeepoopop
+
 ## Manage your Contents
 
 Create new pages or modify the existing ones in `content/` directory.
