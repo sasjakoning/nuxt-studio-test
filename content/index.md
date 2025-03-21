@@ -4,6 +4,8 @@ This is the main page displaying Markdown located at [content/index.md](https://
 
 Move to [about](/about) page.
 
+hiii
+
 ## Manage your Contents
 
 Create new pages or modify the existing ones in `content/` directory.
